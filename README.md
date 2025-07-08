@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">This is Jaya Sidhu Seelam (aka Sidhu or s1dhuman) and I'm a recent CS undergraduate from NSUT, Delhi, India.<br><br>With a strong love and interest in Machine learning, Research, and Software development. I enjoy working on ideas that have real-world impact, especially at the intersection of AI and everyday problems.<br><br>So Far, I've worked in 2 internships as Software developer and Machine Learning Engineer and I've also worked on 2 research papers (with one of them accepted)<br><br>Apart from grinding leetcode, I follow Formula 1, football, esport, and exploring new (shawarma) places — whether through travel or through code.<br><br>This space is where I share some of the stuff I’ve worked on, learned, or am still figuring out. Thanks for stopping by :))<br><br></p>
+<p align="left">This is Jaya Sidhu Seelam (aka Sidhu or s1dhuman) and I'm a recent CS undergraduate from NSUT, Delhi, India.<br><br>With a strong love and interest in Machine learning, Research, and Software development. I enjoy working on ideas that have real-world impact, especially at the intersection of AI and everyday problems.<br><br>So Far, I've worked in 2 internships as Software developer and Machine Learning Engineer and I've also worked on 2 research papers (with one of them accepted)<br><br>Apart from grinding leetcode, I follow Formula 1, football, esport, and explore new places — whether through travel or through code.<br><br>This space is where I share some of the stuff I’ve worked on, learned, or am still figuring out. Thanks for stopping by :))<br><br></p>
 
 
 ###
