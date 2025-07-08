@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<p align="left">Programming Tools - lang. and Frameworks</p>
+<p align="left">Programming Tools, lang. and Frameworks</p>
 
 ###
 
@@ -140,9 +140,5 @@
 <h2 align="left">Contact me</h2>
 
 [LinkedIn](https://www.linkedin.com/in/jaya-sidhu-seelam/)     ·     [Discord](https://discord.com/channels/@me): `s1dhuman`
-
-<p> if you're still here, give this a listen ⬇️: </p>
-
-[![Spotify](https://spotify.lunchb0ne.me/api?theme=&scan=true)](https://open.spotify.com/user/wjak2rn1bciuh2ulejv9kb2me)
 
 ###
