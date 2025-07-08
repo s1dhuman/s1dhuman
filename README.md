@@ -143,6 +143,6 @@
 
 <p> if you're still here, give this a listen ⬇️: </p>
 
-[![Spotify](https://spotify.lunchb0ne.me/api?theme=&scan=true)](https://open.spotify.com/user/s1dhuman)
+[![Spotify](https://spotify.lunchb0ne.me/api?theme=&scan=true)](https://open.spotify.com/user/wjak2rn1bciuh2ulejv9kb2me)
 
 ###
