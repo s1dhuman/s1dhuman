@@ -141,4 +141,8 @@
 
 [LinkedIn](https://www.linkedin.com/in/jaya-sidhu-seelam/)     ·     [Discord](https://discord.com/channels/@me): `s1dhuman`
 
+<p>heres a song for you 👇</p>
+
+![Random Song](https://spotify-song-fetcher.vercel.app/api/random-song)
+
 ###
