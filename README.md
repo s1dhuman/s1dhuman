@@ -139,7 +139,7 @@
 
 <h2 align="left">Contact me</h2>
 
-[LinkedIn](https://www.linkedin.com/in/jaya-sidhu-seelam/)     ·     [Discord](https://discord.com/channels/@me): `s1dhuman`
+[LinkedIn](https://www.linkedin.com/in/jaya-sidhu-seelam/)     ·     [Discord](https://discord.com/channels/@me): `s1dhuman#5105`     ·     [Instagram](https://www.youtube.com/watch?v=E58qLXBfLrs)
 
 <p>heres a song for you 👇</p>
 
