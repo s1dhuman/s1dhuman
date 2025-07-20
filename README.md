@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=s1dhuman&color=green)
 
-<h1 align="left">Heyyo 👋</h1>
+<h1 align="left">Heyyo‼️👋</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">About</h2>
+<h2 align="left">About Me 👨🏽‍💻</h2>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">This is Jaya Sidhu Seelam (aka Sidhu or s1dhuman) and I'm a recent CS undergraduate from NSUT, Delhi, India.<br><br>With a strong love and interest in Machine learning, Research, and Software development. I enjoy working on ideas that have real-world impact, especially at the intersection of AI and everyday problems.<br><br>So Far, I've worked in 2 internships as Software developer and Machine Learning Engineer and I've also worked on 2 research papers (with one of them accepted)<br><br>Apart from grinding leetcode, I follow Formula 1, football, esport, and explore new places shawarma spots.<br><br>This space is where I share some of the stuff I’ve worked on, learned, or am still figuring out. Thanks for stopping by :))<br><br></p>
+<p align="left">This is Jaya Sidhu Seelam (aka Sidhu or s1dhuman) and I'm a recent CS undergraduate from NSUT, Delhi, India 👨‍🎓.<br><br>With a strong love and interest in 🤖 Machine learning, Research, and Software development 🤖. I enjoy working on ideas that have real-world impact, especially at the intersection of AI and everyday problems.<br><br>So Far, I've worked in 2 internships as Software developer and Machine Learning Engineer and I've also worked on 2 research papers (with one of them accepted) 🚀🚀.<br><br>Apart from grinding leetcode, I follow Formula 1, football, esport, and explore new shawarma spots.<br><br>This space is where I share some of the stuff I’ve worked on, learned, or am still figuring out. Thanks for stopping by :))<br><br></p>
 
 
 ###
@@ -27,7 +27,7 @@
 
 <br clear="both">
 
-<p align="left">Programming Tools, lang. and Frameworks</p>
+<p align="left">Programming Tools, lang., Frameworks, etc, etc..</p>
 
 ###
 
@@ -132,14 +132,17 @@
 <div align="left">
 <!--   <img src="https://github.com/s1dhuman/github-stats/blob/master/generated/overview.svg" height="150" alt="GitHub Overview Stats" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=s1dhuman&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5" height="150" alt="s1dhuman's GitHub Stats" /> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s1dhuman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=s1dhuman&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+    <br> <br>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=s1dhuman&show_icons=true&theme=transparent&rank_icon=github" />
+    
 </div>
 
 ###
 
-<h2 align="left">Contact me</h2>
+<h2 align="left">How to reach out to me??</h2>
 
-[LinkedIn](https://www.linkedin.com/in/jaya-sidhu-seelam/)     ·     [Discord](https://discord.com/channels/@me): `s1dhuman#5105`     ·     [Instagram](https://www.youtube.com/watch?v=E58qLXBfLrs)
+[LinkedIn](https://www.linkedin.com/in/jaya-sidhu-seelam/)     ·     [Discord](https://discord.com/channels/@me): `s1dhuman#5105`     ·     [Instagram](https://www.instagram.com/ye/)
 
 <p>heres a song for you 👇</p>
 
